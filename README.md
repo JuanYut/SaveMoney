@@ -8,7 +8,7 @@
 
 👻 A fun basic project with ReactJS.
 
-https://dreamy-wiles-9f9b3c.netlify.app/
+https://frosty-neumann-95cab1.netlify.app
 
 - **Contributors:**
 
