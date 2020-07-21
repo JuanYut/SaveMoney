@@ -1,4 +1,4 @@
-## Pet Patient Manager
+## Save your Money
 
 <p align="center">
   <img src="/src/images/money.png" width="100"/>
